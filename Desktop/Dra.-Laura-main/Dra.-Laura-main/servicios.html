@@ -3,8 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="description" content="Servicios de Psiquiatría y Psicología - Consultorios Río Piedras. Atención presencial, virtual y domiciliaria.">
-    <title>Servicios - Consultorios Río Piedras</title>
+
+    <!-- SEO Principal -->
+    <title>Servicios de Psiquiatría y Psicología | Dra. Laura Hernández Rico – Morón</title>
+    <meta name="description" content="Psiquiatría, terapia psicológica, evaluaciones neurocognitivas, psicodiagnóstico y servicios especializados. Atención presencial, virtual y a domicilio en Morón, Buenos Aires.">
+    <link rel="canonical" href="https://tudominio.com/servicios.html">
+    <meta name="robots" content="index, follow">
+
+    <!-- Geo -->
+    <meta name="geo.region" content="AR-B">
+    <meta name="geo.placename" content="Morón, Buenos Aires, Argentina">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tudominio.com/servicios.html">
+    <meta property="og:title" content="Servicios de Psiquiatría y Psicología | Dra. Laura Hernández Rico – Morón">
+    <meta property="og:description" content="Psiquiatría, terapia psicológica, evaluaciones neurocognitivas y servicios especializados. Atención en Morón, Buenos Aires.">
+    <meta property="og:locale" content="es_AR">
+    <meta property="og:site_name" content="Consultorios Río Piedras – Dra. Laura Hernández Rico">
+    <meta property="og:image" content="https://tudominio.com/images/og-image.jpg">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Servicios de Psiquiatría y Psicología | Dra. Laura Hernández Rico – Morón">
+    <meta name="twitter:description" content="Psiquiatría, psicología y evaluaciones especializadas. Atención presencial, virtual y a domicilio en Morón.">
+    <meta name="twitter:image" content="https://tudominio.com/images/og-image.jpg">
+
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -232,6 +256,37 @@
     <!-- SCRIPTS -->
     <script src="menu.js"></script>
     <script src="dark-mode.js"></script>
+
+    <!-- JSON-LD Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Physician",
+      "@id": "https://tudominio.com/#physician",
+      "name": "Dra. María Laura Hernández Rico",
+      "alternateName": ["Dra. Laura Hernández Rico", "Doctora Laura Hernández"],
+      "medicalSpecialty": "https://schema.org/Psychiatric",
+      "url": "https://tudominio.com/",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Río Piedras 372, Planta 3, Consultorio D",
+        "addressLocality": "Morón",
+        "addressRegion": "Buenos Aires",
+        "addressCountry": "AR"
+      },
+      "telephone": "+541161647080",
+      "availableService": [
+        { "@type": "MedicalTherapy", "name": "Atención Psiquiátrica" },
+        { "@type": "MedicalTherapy", "name": "Terapia Psicológica" },
+        { "@type": "MedicalTherapy", "name": "Psicodiagnóstico" },
+        { "@type": "MedicalTherapy", "name": "Evaluación Neurocognitiva" },
+        { "@type": "MedicalTherapy", "name": "Orientación Vocacional" },
+        { "@type": "MedicalTherapy", "name": "Estimulación Neurocognitiva" },
+        { "@type": "MedicalTherapy", "name": "Revinculaciones Judiciales" },
+        { "@type": "MedicalTherapy", "name": "Informes Periciales" }
+      ]
+    }
+    </script>
 
 </body>
 </html>

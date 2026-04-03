@@ -3,8 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-    <meta name="description" content="Contactá con Consultorios Río Piedras. Solicitá tu turno por WhatsApp, teléfono o formulario. Morón, Buenos Aires.">
-    <title>Contacto - Consultorios Río Piedras</title>
+
+    <!-- SEO Principal -->
+    <title>Turnos y Contacto | Dra. Laura Hernández Rico – Psiquiatra en Morón</title>
+    <meta name="description" content="Solicitá turno con la Dra. Laura Hernández Rico, psiquiatra en Morón, Buenos Aires. Contacto por WhatsApp, formulario online o email. Atención presencial, virtual y a domicilio.">
+    <link rel="canonical" href="https://tudominio.com/contacto.html">
+    <meta name="robots" content="index, follow">
+
+    <!-- Geo -->
+    <meta name="geo.region" content="AR-B">
+    <meta name="geo.placename" content="Morón, Buenos Aires, Argentina">
+
+    <!-- Open Graph -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://tudominio.com/contacto.html">
+    <meta property="og:title" content="Turnos y Contacto | Dra. Laura Hernández Rico – Psiquiatra en Morón">
+    <meta property="og:description" content="Solicitá turno por WhatsApp o formulario. Río Piedras 372, Morón, Buenos Aires. Lunes a viernes 9–20 hs, sábados 9–13 hs.">
+    <meta property="og:locale" content="es_AR">
+    <meta property="og:site_name" content="Consultorios Río Piedras – Dra. Laura Hernández Rico">
+    <meta property="og:image" content="https://tudominio.com/images/og-image.jpg">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Turnos y Contacto | Dra. Laura Hernández Rico – Psiquiatra Morón">
+    <meta name="twitter:description" content="Solicitá turno por WhatsApp o formulario online. Morón, Buenos Aires.">
+    <meta name="twitter:image" content="https://tudominio.com/images/og-image.jpg">
+
     <link rel="icon" type="image/svg+xml" href="favicon.svg">
     <link rel="stylesheet" href="styles.css">
 </head>
@@ -269,6 +293,46 @@
     <script src="menu.js"></script>
     <script src="contacto-calendarios.js"></script>
     <script src="dark-mode.js"></script>
+
+    <!-- JSON-LD Schema -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Physician",
+      "@id": "https://tudominio.com/#physician",
+      "name": "Dra. María Laura Hernández Rico",
+      "alternateName": ["Dra. Laura Hernández Rico", "Doctora Laura Hernández"],
+      "medicalSpecialty": "https://schema.org/Psychiatric",
+      "url": "https://tudominio.com/",
+      "telephone": "+541161647080",
+      "email": "laurico724@gmail.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "Río Piedras 372, Planta 3, Consultorio D",
+        "addressLocality": "Morón",
+        "addressRegion": "Buenos Aires",
+        "addressCountry": "AR"
+      },
+      "areaServed": [
+        { "@type": "City", "name": "Morón" },
+        { "@type": "AdministrativeArea", "name": "Gran Buenos Aires" }
+      ],
+      "openingHoursSpecification": [
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": ["Monday","Tuesday","Wednesday","Thursday","Friday"],
+          "opens": "09:00",
+          "closes": "20:00"
+        },
+        {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": "Saturday",
+          "opens": "09:00",
+          "closes": "13:00"
+        }
+      ]
+    }
+    </script>
 
 </body>
 </html>
