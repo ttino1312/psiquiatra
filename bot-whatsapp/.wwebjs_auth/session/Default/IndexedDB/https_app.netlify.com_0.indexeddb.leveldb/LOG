@@ -1,0 +1,6 @@
+2026/02/05-13:34:44.406 3f50 Creating DB C:\xampp\htdocs\PPP\bot-whatsapp\.wwebjs_auth\session\Default\IndexedDB\https_app.netlify.com_0.indexeddb.leveldb since it was missing.
+2026/02/05-13:34:44.429 3f50 Reusing MANIFEST C:\xampp\htdocs\PPP\bot-whatsapp\.wwebjs_auth\session\Default\IndexedDB\https_app.netlify.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/05-13:36:09.664 2b9c Level-0 table #5: started
+2026/02/05-13:36:09.668 2b9c Level-0 table #5: 6438 bytes OK
+2026/02/05-13:36:09.670 2b9c Delete type=0 #3
+2026/02/05-13:36:09.671 3f50 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
