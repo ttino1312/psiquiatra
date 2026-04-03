@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2026/03/28-14:40:46.454 4ad4 Reusing MANIFEST C:\Users\amqui\Desktop\Dra.-Laura-main\Dra.-Laura-main\bot-whatsapp\whatsapp-session\session\Default\shared_proto_db/MANIFEST-000001
 2026/03/28-14:40:46.456 4ad4 Recovering log #3
 2026/03/28-14:40:46.463 4ad4 Reusing old log C:\Users\amqui\Desktop\Dra.-Laura-main\Dra.-Laura-main\bot-whatsapp\whatsapp-session\session\Default\shared_proto_db/000003.log 
+=======
+2026/02/05-22:12:19.538 2808 Reusing MANIFEST D:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\shared_proto_db/MANIFEST-000001
+2026/02/05-22:12:19.612 2808 Recovering log #3
+2026/02/05-22:12:19.613 2808 Reusing old log D:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\shared_proto_db/000003.log 
+>>>>>>> 33da1a933a6036f236ec12198ad321aea738e03f

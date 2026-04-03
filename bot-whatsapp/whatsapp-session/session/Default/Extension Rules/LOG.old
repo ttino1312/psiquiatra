@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2026/02/05-18:38:09.760 2070 Reusing MANIFEST D:\xampp\htdocs\PPP\PPP\bot-whatsapp\whatsapp-session\session\Default\Extension Rules/MANIFEST-000001
 2026/02/05-18:38:09.777 2070 Recovering log #3
 2026/02/05-18:38:09.778 2070 Reusing old log D:\xampp\htdocs\PPP\PPP\bot-whatsapp\whatsapp-session\session\Default\Extension Rules/000003.log 
+=======
+2026/02/05-15:23:57.885 370c Creating DB C:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\Extension Rules since it was missing.
+2026/02/05-15:23:57.897 370c Reusing MANIFEST C:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\Extension Rules/MANIFEST-000001
+>>>>>>> 33da1a933a6036f236ec12198ad321aea738e03f

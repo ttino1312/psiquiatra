@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2026/03/28-14:40:46.142 4ab4 Reusing MANIFEST C:\Users\amqui\Desktop\Dra.-Laura-main\Dra.-Laura-main\bot-whatsapp\whatsapp-session\session\Default\Site Characteristics Database/MANIFEST-000001
 2026/03/28-14:40:46.151 4ab4 Recovering log #3
 2026/03/28-14:40:46.152 4ab4 Reusing old log C:\Users\amqui\Desktop\Dra.-Laura-main\Dra.-Laura-main\bot-whatsapp\whatsapp-session\session\Default\Site Characteristics Database/000003.log 
+=======
+2026/02/05-22:12:19.161 20d8 Reusing MANIFEST D:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\Site Characteristics Database/MANIFEST-000001
+2026/02/05-22:12:19.343 20d8 Recovering log #3
+2026/02/05-22:12:19.344 20d8 Reusing old log D:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\Site Characteristics Database/000003.log 
+>>>>>>> 33da1a933a6036f236ec12198ad321aea738e03f

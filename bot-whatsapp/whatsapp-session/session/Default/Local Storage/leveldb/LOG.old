@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 2026/03/28-14:18:15.283 39a0 Reusing MANIFEST C:\Users\amqui\Desktop\Dra.-Laura-main\Dra.-Laura-main\bot-whatsapp\whatsapp-session\session\Default\Local Storage\leveldb/MANIFEST-000001
 2026/03/28-14:18:15.311 39a0 Recovering log #10
 2026/03/28-14:18:15.315 39a0 Reusing old log C:\Users\amqui\Desktop\Dra.-Laura-main\Dra.-Laura-main\bot-whatsapp\whatsapp-session\session\Default\Local Storage\leveldb/000010.log 
+=======
+2026/02/05-20:27:54.690 1740 Reusing MANIFEST D:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/05-20:27:54.697 1740 Recovering log #4
+2026/02/05-20:27:54.703 1740 Reusing old log D:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\Local Storage\leveldb/000004.log 
+>>>>>>> 33da1a933a6036f236ec12198ad321aea738e03f

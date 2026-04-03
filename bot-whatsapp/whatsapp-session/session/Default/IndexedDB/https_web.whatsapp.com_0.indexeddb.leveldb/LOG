@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 2026/03/28-14:40:47.276 4a0 Reusing MANIFEST C:\Users\amqui\Desktop\Dra.-Laura-main\Dra.-Laura-main\bot-whatsapp\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
 2026/03/28-14:40:47.277 4a0 Recovering log #62
 2026/03/28-14:40:47.421 4a0 Reusing old log C:\Users\amqui\Desktop\Dra.-Laura-main\Dra.-Laura-main\bot-whatsapp\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000062.log 
@@ -8,3 +9,8 @@
 2026/03/28-14:40:55.995 27e8 Generated table #68@1: 56671 keys, 2112308 bytes
 2026/03/28-14:40:55.996 27e8 Compacted 1@1 + 1@2 files => 2112308 bytes
 2026/03/28-14:40:55.997 27e8 compacted to: files[ 0 0 1 0 0 0 0 ]
+=======
+2026/02/05-22:12:22.373 404 Reusing MANIFEST D:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/02/05-22:12:22.840 404 Recovering log #14
+2026/02/05-22:12:23.541 404 Reusing old log D:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000014.log 
+>>>>>>> 33da1a933a6036f236ec12198ad321aea738e03f
