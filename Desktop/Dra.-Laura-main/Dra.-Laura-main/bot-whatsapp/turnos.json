@@ -1,0 +1,98 @@
+[
+  {
+    "id": "turno_6985240932e1b4.49489893",
+    "nombre": "asdsadasd",
+    "email": "asdasd@gmail.com",
+    "telefono": "1161365346",
+    "fecha": "2026-02-06",
+    "horario": "20:00",
+    "motivo": "asdad",
+    "estado": "pendiente",
+    "timestamp": "2026-02-05T23:13:13.051Z",
+    "fecha_registro": "2026-02-06 00:13:13"
+  },
+  {
+    "id": "turno_6985243fbb6db2.31704007",
+    "nombre": "sssssssssssssssssss",
+    "email": "sssssss@gmail.com",
+    "telefono": "1161365346",
+    "fecha": "2026-02-07",
+    "horario": "10:00",
+    "motivo": "asdad",
+    "estado": "pendiente",
+    "timestamp": "2026-02-05T23:14:07.763Z",
+    "fecha_registro": "2026-02-06 00:14:07"
+  },
+  {
+    "id": "turno_1773720993626",
+    "nombre": "santino",
+    "telefono": "1161365346",
+    "email": "santinodelucca@gmail.com",
+    "servicio": "Psiquiatría",
+    "modalidad": "Presencial",
+    "fecha": "2026-03-18",
+    "horario": "Mañana (09:00 - 11:00)",
+    "motivo": "",
+    "fecha_registro": "17/3/2026, 01:16:33"
+  },
+  {
+    "id": "turno_1773800561140",
+    "nombre": "ASDSAD",
+    "telefono": "1161365346",
+    "email": "santinodelucca@gmail.com",
+    "servicio": "Psiquiatría",
+    "modalidad": "Virtual",
+    "fecha": "2026-03-26",
+    "horario": "Tarde (14:00 - 17:00)",
+    "motivo": "holaaaaaaaaaaaaaaaaaaa",
+    "fecha_registro": "17/3/2026, 11:22:41"
+  },
+  {
+    "id": "turno_1774718262702",
+    "nombre": "santino de lucca",
+    "telefono": "1161365346",
+    "email": "santinodelucca@gmail.com",
+    "servicio": "Psiquiatría",
+    "modalidad": "A Domicilio",
+    "fecha": "2026-03-31",
+    "horario": "Mediodía (11:00 - 13:00)",
+    "motivo": "ajdsjsajd",
+    "fecha_registro": "28/3/2026, 02:17:42"
+  },
+  {
+    "id": "turno_1774718334001",
+    "nombre": "santino de lucca",
+    "telefono": "1161365346",
+    "email": "santinodelucca@gmail.com",
+    "servicio": "Orientación Vocacional",
+    "modalidad": "Virtual",
+    "fecha": "2026-03-30",
+    "horario": "Tarde (14:00 - 17:00)",
+    "motivo": "jajajaja",
+    "fecha_registro": "28/3/2026, 02:18:54"
+  },
+  {
+    "id": "turno_1774719557064",
+    "nombre": "santino de lucca",
+    "telefono": "1161365346",
+    "email": "santinodelucca@gmail.com",
+    "servicio": "Evaluación Neurocognitiva",
+    "modalidad": "Presencial",
+    "fecha": "2026-03-28",
+    "horario": "Mediodía (11:00 - 13:00)",
+    "motivo": "jujjujuju",
+    "fecha_registro": "28/3/2026, 02:39:17"
+  },
+  {
+    "id": "turno_1774721271156",
+    "nombre": "laura",
+    "telefono": "1161365346",
+    "email": "santinodelucca@gmail.com",
+    "servicio": "Psiquiatría",
+    "modalidad": "Presencial",
+    "fecha": "2026-03-30",
+    "horario": "Mañana (09:00 - 11:00)",
+    "motivo": "solicito por la tarde",
+    "fecha_registro": "28/3/2026, 03:07:51"
+  }
+]
