@@ -1,0 +1,26 @@
+[
+    {
+        "id": "turno_6985240932e1b4.49489893",
+        "nombre": "asdsadasd",
+        "email": "asdasd@gmail.com",
+        "telefono": "1161365346",
+        "fecha": "2026-02-06",
+        "horario": "20:00",
+        "motivo": "asdad",
+        "estado": "pendiente",
+        "timestamp": "2026-02-05T23:13:13.051Z",
+        "fecha_registro": "2026-02-06 00:13:13"
+    },
+    {
+        "id": "turno_6985243fbb6db2.31704007",
+        "nombre": "sssssssssssssssssss",
+        "email": "sssssss@gmail.com",
+        "telefono": "1161365346",
+        "fecha": "2026-02-07",
+        "horario": "10:00",
+        "motivo": "asdad",
+        "estado": "pendiente",
+        "timestamp": "2026-02-05T23:14:07.763Z",
+        "fecha_registro": "2026-02-06 00:14:07"
+    }
+]

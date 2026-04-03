@@ -1,0 +1,6 @@
+2026/02/05-22:12:19.536 888 Reusing MANIFEST D:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/05-22:12:19.697 888 Recovering log #4
+2026/02/05-22:12:19.701 888 Reusing old log D:\xampp\htdocs\PPP\bot-whatsapp\whatsapp-session\session\Default\Local Storage\leveldb/000004.log 
+2026/02/05-22:13:19.746 888 Level-0 table #8: started
+2026/02/05-22:13:19.851 888 Level-0 table #8: 13540 bytes OK
+2026/02/05-22:13:19.902 888 Delete type=0 #4
